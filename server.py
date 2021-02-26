@@ -38,10 +38,19 @@ def say_hello():
           <input type="submit" value="Submit"> <br>
           What compliment would you like?<br>
           <input type="radio" name="compliment" value="awesome">Awesome!<br>
-          <input type="radio" name="compliment" value="dope">Dope!<br>
-          <input type="radio" name="compliment" value="lovely">Lovely!<br>
-          <input type="radio" name="compliment" value="cool">Cool!<br>
-          <input type="radio" name="compliment" value="nice">Nice!
+          <input type="radio" name="compliment" value="terrific">Terrific!<br>
+          <input type="radio" name="compliment" value="fantastic">Fantastic!<br>
+          <input type="radio" name="compliment" value="neato">Neato!<br>
+          <input type="radio" name="compliment" value="fantabulous">Fantabulous!<br>
+          <input type="radio" name="compliment" value="wowza">Wowza!<br>
+          <input type="radio" name="compliment" value="oh-so-not-meh">Oh so not meh!<br>
+          <input type="radio" name="compliment" value="brilliant">Brilliant!<br>
+          <input type="radio" name="compliment" value="ducky">Ducky!<br>
+          <input type="radio" name="compliment" value="coolio">Coolio!<br>
+          <input type="radio" name="compliment" value="incredible">Incredible!<br>
+          <input type="radio" name="compliment" value="wonderful">Wonderful!<br>
+          <input type="radio" name="compliment" value="smashing">Smashing!<br>
+          <input type="radio" name="compliment" value="lovely">Lovely!
         </form>
       </body>
     </html>
