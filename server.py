@@ -8,11 +8,6 @@ from flask import Flask, request
 # Flask wants to know this to know what any imported things are relative to.
 app = Flask(__name__)
 
-AWESOMENESS = [
-    'awesome', 'terrific', 'fantastic', 'neato', 'fantabulous', 'wowza',
-    'oh-so-not-meh', 'brilliant', 'ducky', 'coolio', 'incredible',
-    'wonderful', 'smashing', 'lovely']
-
 
 @app.route('/')
 def start_here():
